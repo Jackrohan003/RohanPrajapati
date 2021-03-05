@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RohanPrajapati/static/css/main.9f733567.chunk.css",
+    "main.js": "/RohanPrajapati/static/js/main.9e2a7e58.chunk.js",
+    "main.js.map": "/RohanPrajapati/static/js/main.9e2a7e58.chunk.js.map",
+    "runtime-main.js": "/RohanPrajapati/static/js/runtime-main.bd3bfb64.js",
+    "runtime-main.js.map": "/RohanPrajapati/static/js/runtime-main.bd3bfb64.js.map",
+    "static/js/2.d108c3ba.chunk.js": "/RohanPrajapati/static/js/2.d108c3ba.chunk.js",
+    "static/js/2.d108c3ba.chunk.js.map": "/RohanPrajapati/static/js/2.d108c3ba.chunk.js.map",
+    "static/js/3.89e33cfe.chunk.js": "/RohanPrajapati/static/js/3.89e33cfe.chunk.js",
+    "static/js/3.89e33cfe.chunk.js.map": "/RohanPrajapati/static/js/3.89e33cfe.chunk.js.map",
+    "index.html": "/RohanPrajapati/index.html",
+    "static/css/main.9f733567.chunk.css.map": "/RohanPrajapati/static/css/main.9f733567.chunk.css.map",
+    "static/js/2.d108c3ba.chunk.js.LICENSE.txt": "/RohanPrajapati/static/js/2.d108c3ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd3bfb64.js",
+    "static/js/2.d108c3ba.chunk.js",
+    "static/css/main.9f733567.chunk.css",
+    "static/js/main.9e2a7e58.chunk.js"
+  ]
+}
